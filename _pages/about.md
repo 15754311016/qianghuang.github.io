@@ -25,38 +25,25 @@ News
 
 **Nov. 20219**: One paper accepted by BIBM, 2019
 
+<br />
 
 Selected Publications
 ======
-Modeling Interference for Individual Treatment Effect Estimation from Networked Observational Data
+Modeling Interference for Individual Treatment Effect Estimation from Networked Observational Data<br />
+**Qiang Huang**, Jing Ma, Jundong Li, Ruocheng Guo, Huiyan Sun, Yi Chang.<br />
+<i>ACM Transactions on Knowledge Discovery from Data (TKDD), 2023</i><br />
 
-**Qiang Huang**, Jing Ma, Jundong Li, Ruocheng Guo, Huiyan Sun, Yi Chang
+SemiITE: Semi-supervised Individual Treatment Effect Estimation via Disagreement-Based Co-training<br />
+**Qiang Huang**, Jing Ma, Jundong Li, Huiyan Sun, Yi Chang<br />
+<i>ECML-PKDD, 2022</i><br />
 
-ACM Transactions on Knowledge Discovery from Data (TKDD), 2023
-
-
-
-SemiITE: Semi-supervised Individual Treatment Effect Estimation via Disagreement-Based Co-training
-
-**Qiang Huang**, Jing Ma, Jundong Li, Huiyan Sun, Yi Chang
-
-ECML-PKDD, 2022
-
-
-
-GraphLime: Local Interpretable Model Explanations for Graph Neural Networks
-
-**Qiang Huang**, Makoto Yamada, Yuan Tian, Dinesh Singh, Yi Chang
-
-IEEE Transactions on Knowledge and Data Engineering (TKDE),2022
-
-
+GraphLime: Local Interpretable Model Explanations for Graph Neural Networks<br />
+**Qiang Huang**, Makoto Yamada, Yuan Tian, Dinesh Singh, Yi Chang<br />
+<i>IEEE Transactions on Knowledge and Data Engineering (TKDE),2022</i><br />
 
 Unsupervised Nonlinear Feature Selection from High-dimensional Signed Networks
-
-**Qiang Huang**, Tingyu Xia, Huiyan Sun, Makoto Yamada, Yi Chang
-
-Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020
+**Qiang Huang**, Tingyu Xia, Huiyan Sun, Makoto Yamada, Yi Chang<br />
+<i>Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020</i><br />
 
 
 
