@@ -23,7 +23,7 @@ News
 
 **Feb. 2020**: One paper accepted by AAAI, 2020
 
-**Nov. 20219**: One paper accepted by BIBM, 2019
+**Nov. 2019**: One paper accepted by BIBM, 2019
 
 <br />
 
@@ -41,7 +41,7 @@ GraphLime: Local Interpretable Model Explanations for Graph Neural Networks<br /
 **Qiang Huang**, Makoto Yamada, Yuan Tian, Dinesh Singh, Yi Chang<br />
 <i>IEEE Transactions on Knowledge and Data Engineering (TKDE),2022</i><br />
 
-Unsupervised Nonlinear Feature Selection from High-dimensional Signed Networks
+Unsupervised Nonlinear Feature Selection from High-dimensional Signed Networks<br />
 **Qiang Huang**, Tingyu Xia, Huiyan Sun, Makoto Yamada, Yi Chang<br />
 <i>Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020</i><br />
 
