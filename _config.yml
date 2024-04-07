@@ -12,7 +12,7 @@ title                    : "Qiang Huang"
 title_separator          : "-"
 name                     : &name "Qiang Huang"
 description              : &description "Ph.D. student, School of Artificial Intelligence, Jilin University"
-URL                      : https://15754311016.github.io/qianghuang.github.io/ #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+URL                      : "https://15754311016.github.io/qianghuang.github.io/" #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://15754311016.github.io/qianghuang.github.io/"
 
