@@ -9,13 +9,17 @@ redirect_from:
 
 I am a fourth-year Ph.D. student from the School of Artificial Intelligence at Jilin University, I am very fortunate to be advised by [Prof. Yi Chang](http://www.yichang-cs.com/). I am currently a visiting scholar at University of Southern California (USC), working with [Prof. Yan Liu](https://viterbi.usc.edu/directory/faculty/Liu/Yan).
 
-My research interests include causal inference, data mining, machine learning, and artificial intelligence, utilizing the causal mechanism to develop fair, robust machine learning algorithms to aid decision making and applications in the real world.
+My research interests include causal inference, data mining, machine learning, and artificial intelligence, utilizing the causal mechanism to develop fair, robust machine learning algorithms to aid decision-making and applications in the real world.
 
 Email: huangqiang18@mails.jlu.edu.cn
 
 News
 ======
+**Mar. 2024**: One paper accepted by IJCNN, 2024
+
 **Mar. 2023**: One paper accepted by ACM TKDD, 2023
+
+**Dec. 2022**: Being a visiting scholar at Melady Lab USC, 2022
 
 **Sep. 2022**: One paper accepted by ECML-PKDD, 2022
 
@@ -24,6 +28,8 @@ News
 **Feb. 2020**: One paper accepted by AAAI, 2020
 
 **Nov. 2019**: One paper accepted by BIBM, 2019
+
+**Jul. 2019**: Being an intern at RIKEN, JAPAN 2019
 
 <br />
 
