@@ -39,7 +39,7 @@ Selected Publications
 ======
 An Empirical Examination of Balancing Strategy for Counterfactual Estimation on Time Series<br />
 **Qiang Huang**,  Chuizheng Meng, Defu Cao, Biwei Huang, Yi Chang, Yan Liu.<br />
-<i>Forty-first International Conference on Machine Learning, 2024</i><br />
+<i>Forty-first International Conference on Machine Learning (ICML), 2024</i><br />
 
 Modeling Interference for Individual Treatment Effect Estimation from Networked Observational Data<br />
 **Qiang Huang**, Jing Ma, Jundong Li, Ruocheng Guo, Huiyan Sun, Yi Chang.<br />
