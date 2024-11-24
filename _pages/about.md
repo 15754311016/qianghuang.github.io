@@ -6,12 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a fourth-year Ph.D. student from the School of Artificial Intelligence at Jilin University, I am very fortunate to be advised by [Prof. Yi Chang](http://www.yichang-cs.com/). I am currently a visiting scholar at University of Southern California (USC), working with [Prof. Yan Liu](https://viterbi.usc.edu/directory/faculty/Liu/Yan).
+I am a postdoc at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI, Abu Dhabi), and Fortunately work with [Prof. Jin Tian](https://mbzuai.ac.ae/study/faculty/jin-tian/?utm_term=&utm_campaign=Awareness+Researchers&utm_source=adwords&utm_medium=ppc&hsa_acc=7230836560&hsa_cam=21907871650&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAl4a6BhBqEiwAqvrqulP2o6fyUB3qCxwIKgUh5XDHWiT0227-EdiA-21o-aOzFmxbirPTsBoC7fwQAvD_BwE). I got my doctoral degree of Computer Science from the School of Artificial Intelligence at Jilin University, advised by [Prof. Yi Chang](http://www.yichang-cs.com/). I was a visiting scholar at University of Southern California (USC, 2022-2024), working with [Prof. Yan Liu](https://viterbi.usc.edu/directory/faculty/Liu/Yan).
 
 My research interests include causal inference, data mining, machine learning, and artificial intelligence, utilizing the causal mechanism to develop fair, robust machine learning algorithms to aid decision-making and applications in the real world.
 
-Email: huangqiang18@mails.jlu.edu.cn
+Email: qiang.huang@mbzuai.ac.ae
 
 News
 ======
