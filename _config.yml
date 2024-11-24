@@ -24,11 +24,11 @@ author:
   avatar           : "qianghuang.png"
   name             : "Qiang Huang"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student, Department of Artificial Intelligence, Jilin University"
-  location         : "Changchun, Jilin"
-  employer         : "Jilin University"
+  bio              : "Postdoc, Department of Machine Learning, MBZUAI"
+  location         : "Abu Dhabi"
+  employer         : "MBZUAI"
   uri              : # URL
-  email            : "huangqiang18@mails.jlu.edu.cn" 
+  email            : "qiang.huang@mbzuai.ac.ae" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
